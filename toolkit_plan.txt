@@ -1,0 +1,20 @@
+Personal Mini-Toolkit Plan
+
+Tools Included:
+1. Number Guessing Game: A fun interactive game where the user guesses a randomly generated number with feedback hints.
+2. Todo List Manager: A list manager that lets users add, view, and remove tasks dynamically.
+3. Temperature Converter: A conversion tool that translates temperatures between Celsius and Fahrenheit.
+
+Menu Text:
+=== PERSONAL MINI-TOOLKIT ===
+1. Number Guessing Game
+2. Todo List Manager
+3. Temperature Converter
+4. Quit
+Enter your choice (1-4):
+
+Concepts Used:
+- Loops (while loops for menus and game repetitions)
+- Conditionals (if / elif / else for menu routing and game logic)
+- Lists (dynamic storage for the Todo tasks)
+- F-strings (for clear and friendly user messaging)
